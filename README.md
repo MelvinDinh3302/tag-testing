@@ -1,2 +1,2 @@
 # Tag Testing
-A testing repo to test GitHub pages
+A sandbox repo to test GitHub pages
